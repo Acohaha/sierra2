@@ -1,0 +1,15 @@
+body{
+    background-image: url('https://media.tenor.com/f_saBHiUTz0AAAAC/cute-cat.gif');
+    background-size: cover;
+    background-attachment: fixed;
+}
+.content{
+    background: https://media.tenor.com/f_saBHiUTz0AAAAC/cute-cat.gif;
+    width: 50px;
+    height: 40px;
+    margin: 100px auto;
+}
+img{
+    width: 50%;
+    height: 50%;
+}
